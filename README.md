@@ -7,6 +7,11 @@ Africa road infrastructure dashboard showing paved roads, road length, and regio
 
 
 
+![Dashboard](https://github.com/jeisteve999/Africa-Road-Status-Visualization/blob/main/Captura%20de%20pantalla%202026-04-17%20115908.png)
+
+
+
+
 ![Dashboard](https://github.com/jeisteve999/Africa-Road-Status-Visualization/blob/main/Captura%20de%20pantalla%202026-04-16%20215839.png)
 
 
